@@ -1,0 +1,4 @@
+SocksPort 9050
+ControlPort 9061
+HashedControlPassword 16:
+CookieAuthentication 0

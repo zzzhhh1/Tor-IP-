@@ -1,0 +1,11 @@
+Tor 专家包:
+https://www.torproject.org/zh-CN/download/tor/
+
+Windows 版 Clash:
+https://www.clashforwindows.net/clash-for-windows-download/
+
+GitHub 下载 Clash
+https://github.com/lantongxue/clash_for_windows_pkg/releases
+
+Python:
+https://www.python.org/downloads/windows/

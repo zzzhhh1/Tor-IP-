@@ -1,0 +1,12 @@
+生成密码哈希
+tor.exe --hash-password
+已复制！复制
+升级 Pip
+python -m pip install --upgrade pip
+已复制！复制
+安装依赖库
+pip install stem requests pysocks
+已复制！复制
+测试 Tkinter
+python -c "import tkinter; print('ok')"
+已复制！复制
